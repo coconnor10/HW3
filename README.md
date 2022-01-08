@@ -4,7 +4,7 @@ This is a project for coding bootcamp. It has been designed to generate a random
 
 ## Screenshot
 
-![screenshot of password generator page](C:\Users\catie\code\hw3 password generator\images\screenshot.JPG)
+![screenshot of password generator page](./images/screenshot.JPG)
 
 ## Links to Application
 
