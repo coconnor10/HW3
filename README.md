@@ -4,7 +4,7 @@ This is a project for coding bootcamp. It has been designed to generate a random
 
 ## Screenshot
 
-(./images/screenshot.jpg)
+![screenshot of password generator page](./images/screenshot.jpg)
 
 ## Links to Application
 
