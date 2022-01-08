@@ -4,6 +4,8 @@ This is a project for coding bootcamp. It has been designed to generate a random
 
 ## Screenshot
 
+(./images/screenshot.jpg)
+
 ## Links to Application
 
 - Here is the [link to page](https://coconnor10.github.io/HW3/)
