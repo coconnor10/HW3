@@ -60,7 +60,7 @@ function writePassword() {
 
 // function to clear password
 function eraseText() {
-  document.getElementById("password").value = "";
+  location.reload();
 }
 
 // Add event listener to generate button
