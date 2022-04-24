@@ -8,5 +8,5 @@ This is a project for coding bootcamp. It has been designed to generate a random
 
 ## Links to Application
 
-- Here is the [link to page](https://coconnor10.github.io/HW3/)
-- Here is the [link to github](https://github.com/coconnor10/HW3)
+- Here is the [link to page](https://coconnor10.github.io/Password-Generator/)
+- Here is the [link to github](https://github.com/coconnor10/Password-Generator)
