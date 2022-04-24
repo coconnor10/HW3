@@ -1,6 +1,8 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
+var clearBtn = document.querySelector("#clear");
+
 function generatePassword() {
   //prompts for password criteria
   var askLength = prompt(
@@ -56,8 +58,16 @@ function writePassword() {
   passwordText.value = password;
 }
 
+// function to clear password
+function eraseText() {
+  document.getElementById("password").value = "";
+}
+
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+
+// add event listener to clear button
+clearBtn.addEventListener("click", eraseText);
 
 //character variables
 var alphabet = [
