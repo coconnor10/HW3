@@ -58,8 +58,8 @@ function writePassword() {
   passwordText.value = password;
 }
 
-// function to clear password
-function eraseText() {
+// function to reload page
+function reloadPage() {
   location.reload();
 }
 
@@ -67,7 +67,7 @@ function eraseText() {
 generateBtn.addEventListener("click", writePassword);
 
 // add event listener to clear button
-clearBtn.addEventListener("click", eraseText);
+clearBtn.addEventListener("click", reloadPage);
 
 //character variables
 var alphabet = [
